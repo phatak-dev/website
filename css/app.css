@@ -1,0 +1,67 @@
+
+body {
+padding-top: 20px;
+padding-bottom: 40px;
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 16px;
+}
+
+.container {
+max-width: 750px;
+}
+
+h3.text-muted a {text-decoration: none; color: #999999; }
+h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
+
+.header {
+text-transform: uppercase;
+font-weight: normal;
+border-bottom: 1px solid rgb(232, 232, 232);
+font-size: 16px;
+min-height: 56px;
+}
+
+footer {
+ border-top: 1px solid rgb(232, 232, 232);
+ padding-top : 2%;
+ margin-top: 2%
+}
+
+.header h3 {
+margin-top: 0px;
+margin-bottom: 0px;
+line-height: 40px;
+padding-bottom: 19px;
+}
+
+.contact {
+line-height: 2;
+padding-bottom: 2%;
+}
+
+
+.clients div {
+padding-bottom: 2%;
+}
+
+
+.clientCard {
+box-shadow: rgb(203, 207, 202) 0px 0px 15px 1px;
+padding: 20px;
+margin-bottom: 1%;
+margin-right: 1%;
+}
+
+
+.clientCard img {
+vertical-align: middle;
+text-align: center;
+}
+
+button.navbar-toggle {
+border-color: rgb(221, 221, 221);
+}
+
+.navbar-toggle .icon-bar {
+background-color: rgb(204, 204, 204);
+}
