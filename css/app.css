@@ -65,3 +65,7 @@ border-color: rgb(221, 221, 221);
 .navbar-toggle .icon-bar {
 background-color: rgb(204, 204, 204);
 }
+
+address span {
+  display: block;
+}

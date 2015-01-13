@@ -2,7 +2,7 @@
 layout: default
 clients : active
 ---
-<h2>Trained by me</h2>
+<h2>Training</h2>
 <div class="row clients" style="padding-top:2%;">
 <div class="col-sm-3 clientCard"><img class="img-responsive" src="/images/wipro.png" /></div>
 <div class="col-sm-3 clientCard"><img class="img-responsive" src="/images/infotech.png" /></div>
@@ -14,7 +14,7 @@ clients : active
 <div class="col-sm-3 clientCard"><img style="width:38%" class="img-responsive" src="/images/motorola.jpg" /></div>
 </div>
 
-<h2>Consulted by me</h2>
+<h2>Consultation</h2>
 <div class="row clients" style="padding-top:2%;">
 <div class="col-sm-3 clientCard">
 <img class="img-responsive" style="width:58%;" src="/images/eduprisitine.png" /></div>
