@@ -1,9 +1,0 @@
-# Site settings
-description: "Personal website"
-baseurl: ""
-url: "www.madhukaraphata.com"
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
