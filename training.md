@@ -1,5 +1,6 @@
 ---
 layout: default
+training : active
 ---
 <div class="row">
 <div class="col-sm-12">

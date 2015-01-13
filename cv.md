@@ -1,5 +1,6 @@
 ---
 layout: default
+cv : active
 ---
  <div class="row">
  <div class="col-sm-12">

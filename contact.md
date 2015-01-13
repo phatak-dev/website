@@ -1,5 +1,6 @@
 ---
 layout: default
+contact : active
 ---
 <div class="row contact">
  <div class="col-sm-12">

@@ -1,5 +1,6 @@
 ---
 layout: default
+clients : active
 ---
 <h2>Trained by me</h2>
 <div class="row clients" style="padding-top:2%;">
