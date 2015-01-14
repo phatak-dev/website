@@ -58,7 +58,23 @@ layout: default
 </ul>
 
 
-<h2>4. Functional distributed system on Apache Mesos</h2>
+
+<h2>4. Movie recommendation engine</h2>
+<p><Strong>Abstract</Strong></p>
+<p> Recommendations is what everyone generally does now a days. We come across the recommendations in every e commerce site we visit,in every social networking site we browse. In this Movie recommendation engine we recommend the movies for user based on his facebook profile.</p>
+
+<p> This project aims at building a recommendation engine for old english movies. The system makes use of the user's facebook profile to capture users movie interests, which in turn used in the engine for giving out the recommendation. We will train huge amount of open source movie data in this project to build a recommendation model. 
+.
+
+<p><Strong>Technologies</Strong></p>
+<ul>
+ <li> Spark</li>
+ <li> Scala </li>
+ <li> Machine Learning</li>
+</ul>
+
+
+<h2>5. Functional distributed system on Apache Mesos</h2>
 <p><Strong>Abstract</Strong></p>
 <p> Functional programming is the central theme of most of the distributed system these days. Functional programming helps a given task to be divided and run independent of each. This level abstraction allows us to parallelize these operation to run on distributed systems.</p>
 
