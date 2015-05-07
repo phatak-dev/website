@@ -191,6 +191,15 @@ and accelerated development.
  <p> <a href="http://zinniasystems.com/pdfs/Distributed_Computing_in_Business_Analytics.pdf">White paper</a> on new way of looking at cloud deployments which allow higher flexibility
 and accelerated development.
 
+<h2> Talks</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9mN3N3aoF2w"><strong>Introduction to Spark,</strong></a><i> Spark meetup</i> </li>
+<li><a href="https://www.youtube.com/watch?v=WVdyuVwWcBc"><strong>Anatomy of RDD,</strong></a><i> Spark meetup</i> </li>
+ <li><a href="http://www.slideshare.net/madhukaraphatak/spark-athackthon8jan2014"><strong>Spark at Hackthon,</strong></a><i> Impetus Spark meetup</i> </li>
+ <li><a href="http://www.slideshare.net/madhukaraphatak/machine-learninginspark"><strong>Machine learning at Scale,</strong></a><i> Nasscom Big data meetup</i> </li>
+ <li><a href="http://www.slideshare.net/madhukaraphatak/mean-41838061"><strong>Building RESTtful services in MEAN,</strong></a><i> JSChannel meetup</i> </li>
+
+</ul>
 
 
  <h2> Skills </h2>
@@ -236,12 +245,5 @@ and accelerated development.
   </dd>
   </dl>
 
-<h2> Talks</h2>
-<ul>
- <li><a href="http://www.slideshare.net/madhukaraphatak/spark-athackthon8jan2014"><strong>Spark at Hackthon,</strong></a><i> Impetus Spark meetup</i> </li>
- <li><a href="http://www.slideshare.net/madhukaraphatak/machine-learninginspark"><strong>Machine learning at Scale,</strong></a><i> Nasscom Big data meetup</i> </li>
- <li><a href="http://www.slideshare.net/madhukaraphatak/mean-41838061"><strong>Building RESTtful services in MEAN,</strong></a><i> JSChannel meetup</i> </li>
-
-</ul>
 </div>
 </div>
